@@ -1,0 +1,90 @@
+
+
+statSet 201 = Primary Custom Classes 1
+statSet 202 = Attachment Custom Classes 1
+statSet 203 = Secondary Custom Classes 1
+statSet 204 = Secondary Attachment Custom Classes 1
+
+statSet 211 = Primary Custom Classes 2
+statSet 212 = Attachment Custom Classes 2
+statSet 213 = Secondary Custom Classes 2
+statSet 214 = Secondary Attachment Custom Classes 2
+
+statSet 221 = Primary Custom Classes 3
+statSet 222 = Attachment Custom Classes 3
+statSet 223 = Secondary Custom Classes 3
+statSet 224 = Secondary Attachment Custom Classes 3
+
+statSet 231 = Primary Custom Classes 4
+statSet 232 = Attachment Custom Classes 4
+statSet 233 = Secondary Custom Classes 4
+statSet 234 = Secondary Attachment Custom Classes 4
+
+statSet 241 = Primary Custom Classes 5
+statSet 242 = Attachment Custom Classes 5
+statSet 243 = Secondary Custom Classes 5
+statSet 244 = Secondary Attachment Custom Classes 5
+
+
+
+statSet 205??? perks????statSet 206?? perks??
+statset 207?? perks???
+
+SNIPER RIFLES
+R700: 64
+M40A3: 61
+DRAGUNOV: 60
+BARRETT 50.: 62
+M21: 65
+
+ASSAULT RIFLES
+AK47: 20
+M14: 21
+MP44: 22
+G3: 23
+G36C: 24
+M16: 25
+M4: 26
+
+SUBMACHINE GUNS
+MP5: 10
+SKORPION: 11
+MINI UZI: 12
+AK74U: 13
+P90: 14
+
+SHOTGUNS
+M1014: 70
+W1200: 71
+
+LIGHT MACHINE GUNS
+RPD: 80
+SAW: 81
+M60E4: 82
+
+PISTOLS
+GOLD DEAGLE: 4
+USP: 2
+COLT M1911: 1
+DEAGLE: 3
+M9: 0
+
+OTHERS
+90 - C4
+100 - FRAG GRENADE
+91 - CLAYMORE
+101 - FLASH GRENADE
+102 - SMOKE GRENADE
+103 - FRAG GRENADE
+55 - RPG
+50 - GRENADE LAUNCHER
+
+perks???
+perks??
+
+
+
+example in blinds
+Bind DPAD_UP "statSet 201 x;statSet 211 x;statSet 221 x;statSet 231 x; statSet 241 x;say ^2Primary by Da_EnVvy"
+
+change x values to weapons values
